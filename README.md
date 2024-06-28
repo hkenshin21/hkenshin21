@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @hkenshin21 but ppl call me Ches
-- 👀 I’m interested in too many things to be healthy... 
-- 🌱 I’m currently learning coding, so far I have learned python basics, pandas, matplotlib, numpy and OOP basics. 
-- Now I just installed Android studio and aim to learn the basics on how to build apps :) 
+- 👋 Hi, my nickname here is @hkenshin21 but ppl call me Ches
+- 👀 I’m interested in too many things, some constants though: good food, learning new stuff, games (videogames, tabletop, D&D)... 
+- 🌱 I’m currently learning the world of IoT. 
 - 💞️ I’m looking to collaborate on (not yet, want to learn more first)
 - 📫 How to reach me (here?)
 
